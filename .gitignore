@@ -1,5 +1,19 @@
 # dataset: images - labels
 dataset
+output_dataset
+
 # logs
 *.logs
 jaws-segmentation*
+*.pyc
+data/
+__pycache__/
+checkpoints/
+*.pth
+*.jpg
+*.png
+venv/
+.idea/
+wandb/
+Pytorch_UNet
+results
