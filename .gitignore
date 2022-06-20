@@ -3,7 +3,8 @@ dataset
 output_dataset
 
 # logs
-*.logs
+logs
+*.log
 jaws-segmentation*
 *.pyc
 .ipynb_checkpoints
@@ -18,3 +19,5 @@ venv/
 wandb/
 Pytorch_UNet
 results
+*.pdf
+*.docx
